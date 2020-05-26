@@ -1,0 +1,23 @@
+Hello, Mr Ledge Corps
+
+I hope everything is going well with you and your family.
+
+It seems a little late to you, but let me send you the project screenshots.
+
+Let me first explain what happened for the last two days.
+My skype account has been blocked out for some reason.
+I had to make a new one. But I promise I was on your project for most of the days.
+
+---Now about the project.---
+
+This demo shows implementation of backend, admin panel and dashboard for your website.
+Most of the functions have been implemented, except a few minor that will take no time to complete.
+
+I created two users, one administrator and a user.
+Of course you can change it as you want.
+Two different users will use same login form, but eventually landing in different dashboards. I did this using laravel framework.
+Let me now preview you the website on the following video file.
+
+I hope you would like it. But it is not a final version.
+
+Thanks.
